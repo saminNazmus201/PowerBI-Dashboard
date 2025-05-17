@@ -6,7 +6,7 @@ This interactive Power BI report visualizes hotel booking data from Sep to Nov 2
 
 <img width="709" alt="HotelBookingData" src="https://github.com/user-attachments/assets/319fcf5e-d47f-40a9-a504-219b466c27c3" />
 
-#📈 Business Sales Report (Power BI) 
+# Business Sales Report (Power BI) 
 
 This Power BI dashboard provides a comprehensive analysis of sales performance from Jan 2023 to Sep 2024, totaling $27.99M across 2M boxes. It includes trends over time, top-performing products (e.g., Orange Choco, Drinking Coco), sales by country (UK, USA, India), and individual sales performance. The report helps businesses monitor revenue patterns, evaluate product success, and track regional and salesperson contributions for strategic decision-making. 
 
