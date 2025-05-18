@@ -12,3 +12,10 @@ This Power BI dashboard provides a comprehensive analysis of sales performance f
 
 
 <img width="555" alt="BusinessReportBI" src="https://github.com/user-attachments/assets/aa6f4b2c-ca0a-43d3-aac8-f785b639af3b" />
+
+# HR Attrition Analysis Dashboard
+
+This Power BI project focuses on analyzing employee attrition data to uncover key patterns and insights. The interactive dashboard visualizes total attrition, attrition percentage, and current workforce distribution. It highlights which age groups and genders are most prone to attrition, with a detailed breakdown by department, education field, and job roles. The analysis helps identify high-risk categories—such as the 25–34 age group and employees from Life Sciences—and correlates them with job satisfaction levels. This report is aimed at assisting HR teams in making data-driven decisions to reduce turnover and improve employee retention strategies. 
+
+<img width="594" alt="hrdaspic" src="https://github.com/user-attachments/assets/4d13fcea-3a85-4b93-8143-eff70a9434c1" />
+
