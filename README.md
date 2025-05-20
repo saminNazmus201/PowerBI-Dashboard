@@ -13,7 +13,7 @@ This Power BI project focuses on analyzing employee attrition data to uncover ke
 <img width="594" alt="hrdaspic" src="https://github.com/user-attachments/assets/4d13fcea-3a85-4b93-8143-eff70a9434c1" />
 
 
-#🎵 Spotify Power BI Dashboard
+# Spotify Power BI Dashboard🎵
 
 
 This interactive Power BI dashboard visualizes insights from Spotify's dataset, focusing on track popularity, audio features (like danceability, energy, and tempo), artist trends, and release patterns. It helps users explore music trends over time and identify characteristics of top-performing songs. 
